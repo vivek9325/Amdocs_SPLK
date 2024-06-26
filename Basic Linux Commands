@@ -1,0 +1,12 @@
+CD - change directory
+MKDIR - make directory
+CAT - reading the files
+TAR - untar the package - tar xvzf abd.tar,gz
+LS - list
+CP - copy
+MV - move the file
+RM - remove rm -f - remove forcefully, rm -r ---> recurrisive 
+Vi --- editor to edit or create the file
+Nano --- editor for editing and creating the file
+Telnet --- connection b/w the ip and port
+Ping --- connection b/w two servers
